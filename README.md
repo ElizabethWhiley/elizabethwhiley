@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![banner](https://github.com/ElizabethWhiley/elizabethwhiley/assets/53459911/c70790ab-a50e-450e-a31b-484e4f246423)
 <!--
 **ElizabethWhiley/elizabethwhiley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
