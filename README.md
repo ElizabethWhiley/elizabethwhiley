@@ -1,5 +1,3 @@
-
-![banner-github](https://github.com/ElizabethWhiley/elizabethwhiley/assets/53459911/39040700-5eaf-41d3-bf12-c99a82c649a3)
 ## Hi, I'm Elizabeth 👋
 I'm a software engineer working in Melbourne, Australia. I like writing code to simplify processes and improve people's experiences. 
 
